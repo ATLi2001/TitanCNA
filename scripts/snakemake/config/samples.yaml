@@ -1,0 +1,7 @@
+samples:
+  tumor_sample_1:  /data/81b63768-e633-4a6c-8ccb-2ebd174b45e7/TCGA-4N-A93T-01A-11D-A36X-10_Illumina_gdc_realn.bam
+  normal_sample_1:  /data/9a8a5552-205a-4cb5-9a1c-0a3ae7c48a29/TCGA-4N-A93T-10A-01D-A370-10_Illumina_gdc_realn.bam
+
+
+pairings:
+  tumor_sample_1:  normal_sample_1
