@@ -20,7 +20,7 @@ TitanCNA_genomeStyle: UCSC
 ichorCNA_exons:
   "06 465 668 001": /mnt/data/input/gs/bucket1q2w/jpliu/titancna/tcga/liftovers/hglft_genome_3bc6_6b9910.filter.bed
   "5860504001": /mnt/data/input/gs/bucket1q2w/jpliu/titancna/tcga/liftovers/SeqCap_EZ_Exome_v2.hg38_filtered.bed
-  "931070": /mnt/data/input/gs/bucket1q2w/austin/titancna/tcga_luad/liftovers/luad.whole_exome_agilent_1.1_refseq_plus_3_boosters.targetIntervals.hg38.list.filtered.bed
+  "931070": /mnt/data/input/gs/austin_pipeline_mc3/titancna/liftovers/hglft38_genome_4d9d_2d6390.bed
 
 ichorCNA_centromere:
   /mnt/data/input/gs/bucket1q2w/jpliu/titancna/tcga/refgrch38/GRCh38.GCA_000001405.2_centromere_acen.txt
